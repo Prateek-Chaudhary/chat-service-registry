@@ -3,7 +3,7 @@ spring:
     name: chat-service-registry
 
   profiles:
-    active: dev
+    active: uat
 
 server:
   port: 5555
